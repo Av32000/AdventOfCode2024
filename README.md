@@ -16,4 +16,4 @@ Solutions :
 | [Day 9](https://adventofcode.com/2024/day/9) | [09/part1.js](09/part1.js) | [09/part2.js](09/part2.js) |
 | [Day 10](https://adventofcode.com/2024/day/10) | [10/part1.js](10/part1.js) | [10/part2.js](10/part2.js) |
 | [Day 11](https://adventofcode.com/2024/day/11) | [11/part1.js](11/part1.js) | [11/part2.js](11/part2.js) |
-| [Day 12](https://adventofcode.com/2024/day/12) | [12/part1.js](12/part1.js) | Not available |
+| [Day 12](https://adventofcode.com/2024/day/12) | [12/part1.js](12/part1.js) | [12/part2.js](12/part2.js) |
