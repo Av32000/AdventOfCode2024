@@ -18,3 +18,4 @@ Solutions :
 | [Day 11](https://adventofcode.com/2024/day/11) | [11/part1.js](11/part1.js) | [11/part2.js](11/part2.js) |
 | [Day 12](https://adventofcode.com/2024/day/12) | [12/part1.js](12/part1.js) | [12/part2.js](12/part2.js) |
 | [Day 13](https://adventofcode.com/2024/day/13) | [13/part1.js](13/part1.js) | [13/part2.js](13/part2.js) |
+| [Day 14](https://adventofcode.com/2024/day/14) | [14/part1.js](14/part1.js) | [14/part2.js](14/part2.js) |
