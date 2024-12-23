@@ -24,3 +24,4 @@ Solutions :
 | [Day 17](https://adventofcode.com/2024/day/17) | [17/part1.js](17/part1.js) | Not available |
 | [Day 18](https://adventofcode.com/2024/day/18) | [18/part1.js](18/part1.js) | [18/part2.js](18/part2.js) |
 | [Day 20](https://adventofcode.com/2024/day/20) | [20/part1.js](20/part1.js) | Not available |
+| [Day 22](https://adventofcode.com/2024/day/22) | [22/part1.js](22/part1.js) | Not available |
